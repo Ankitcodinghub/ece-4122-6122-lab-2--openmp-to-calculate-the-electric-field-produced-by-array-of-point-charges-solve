@@ -1,0 +1,1 @@
+# ece-4122-6122-lab-2--openmp-to-calculate-the-electric-field-produced-by-array-of-point-charges-solve
